@@ -1,0 +1,4 @@
+baseURL = "https://ncherro.github.io/"
+languageCode = "en-us"
+title = "ncherro"
+theme = "ananke"
